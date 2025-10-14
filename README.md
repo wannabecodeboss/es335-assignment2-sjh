@@ -15,7 +15,12 @@ Without giving any limit, we used a keyboard interrupt to arbitrarily stop the t
 **Comments about Task 3:**
 We filtered the input data as per our discretion (averaging the temperature over 10 days to reduce the noise.
 
-**Comments about Task 4:**
+**Comments about Task 4:** 
+>We observed that the reconstructed image for the rectangular patch using Gradient Decent gave us better results compared to ALS method. While both gave good results where 900 random pixels where missing.
+
+>The general trend observed was that as rank r increased from 5 to 50, the RMSE reduced and PSNR increased. 
+
+>The patch with just one colour had the least RMSE and highest PSNR while the patch with 3 or more colours had least PSNR and higher RMSE
 
 **Comments about Task 5:** 
 Increased the iterations from 1000 to 10000 for better convergence.

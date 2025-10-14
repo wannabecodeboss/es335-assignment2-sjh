@@ -24,3 +24,6 @@ We filtered the input data as per our discretion (averaging the temperature over
 
 **Comments about Task 5:** 
 Increased the iterations from 1000 to 10000 for better convergence.
+
+The .py files have been reuploaded as .ipynb files for better reading. Do not consider them as separate submissions.
+
